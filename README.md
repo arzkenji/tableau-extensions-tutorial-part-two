@@ -4,5 +4,3 @@ requires
 1. jquery
 2. bootstrap
 3. chart.js
-
-test modification
